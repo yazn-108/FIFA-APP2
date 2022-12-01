@@ -133,7 +133,7 @@ justify-content: space-between;}
     overflow: hidden;
     
 }
-.box-news .search i{
+.box-news .search i{margin-top: 5%;
     width: 50px;
     display: flex;
     align-items: center;
